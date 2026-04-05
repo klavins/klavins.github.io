@@ -23,7 +23,7 @@ email: klavins@uw.edu
 description: >-
   Eric Klavins — publications, courses, and artifacts.
 baseurl: ""
-url: ""
+url: "https://klavinslab.org/"
 
 # Build settings
 plugins:
