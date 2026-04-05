@@ -51,6 +51,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   min-height: 100vh;
+  min-height: 100dvh;
   display: flex;
   flex-direction: column;
 
@@ -493,10 +494,10 @@ ul.pubs .num {
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border-top: 1px solid var(--color-rule);
-  height: 56px;
+  height: calc(56px + env(safe-area-inset-bottom, 0px));
   justify-content: space-around;
   align-items: center;
-  padding: 0 var(--space-sm);
+  padding: 0 var(--space-sm) env(safe-area-inset-bottom, 0px);
 }
 
 .tab-link {
