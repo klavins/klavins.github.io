@@ -1,0 +1,20 @@
+---
+layout: default
+title: Eric Klavins | Publications
+---
+
+<div class="page-header">
+  <h1>Publications</h1>
+  <p class="page-desc">Journal articles, conference papers, and technical reports</p>
+</div>
+
+{% assign y = 3000 %}
+<ul class="pubs">
+  {% for p in site.data.publications %}
+  {% if y != p.year %}
+    {% assign y = p.year %}
+    <h3 class="year-heading">{{ y }}</h3>
+  {% endif %}
+  {% include paper.html param=p %}
+  {% endfor %}
+</ul>

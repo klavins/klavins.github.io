@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+  </head>
+  <body>
+
+    <header class="site-header">
+      <div class="header-inner">
+        <a href="/" class="site-logo">
+          <img src="/img/uw-w.png" alt="UW" class="logo-icon">
+          <span class="logo-text">Eric Klavins</span>
+        </a>
+        <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+          <span class="nav-toggle-bar"></span>
+          <span class="nav-toggle-bar"></span>
+          <span class="nav-toggle-bar"></span>
+        </button>
+        <nav class="site-nav" id="site-nav">
+          <a href="/" class="nav-link {% if page.url == '/' %}active{% endif %}">Home</a>
+          <a href="/publications.html" class="nav-link {% if page.url == '/publications.html' %}active{% endif %}">Publications</a>
+          <a href="/courses.html" class="nav-link {% if page.url == '/courses.html' %}active{% endif %}">Courses</a>
+          <a href="/artifacts.html" class="nav-link {% if page.url == '/artifacts.html' %}active{% endif %}">Artifacts</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="site-main">
+      {{ content }}
+    </main>
+
+    <nav class="mobile-tab-bar">
+      <a href="/" class="tab-link {% if page.url == '/' %}active{% endif %}">
+        <span class="tab-icon">&#8962;</span>
+        Home
+      </a>
+      <a href="/publications.html" class="tab-link {% if page.url == '/publications.html' %}active{% endif %}">
+        <span class="tab-icon">&#128196;</span>
+        Papers
+      </a>
+      <a href="/courses.html" class="tab-link {% if page.url == '/courses.html' %}active{% endif %}">
+        <span class="tab-icon">&#9998;</span>
+        Courses
+      </a>
+      <a href="/artifacts.html" class="tab-link {% if page.url == '/artifacts.html' %}active{% endif %}">
+        <span class="tab-icon">&#9881;</span>
+        Artifacts
+      </a>
+    </nav>
+
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <div class="footer-left">
+          <span>&copy; {{ 'now' | date: '%Y' }} Eric Klavins</span>
+        </div>
+      </div>
+    </footer>
+
+    <script src="/js/main.js"></script>
+  </body>
+</html>

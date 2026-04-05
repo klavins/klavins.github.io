@@ -1,0 +1,680 @@
+- id: rosetta_energy
+  authors: H. Haddox,  G. Rocklin,  F. C Motta,  D. Strickland, S. Halabiya, C. Cordray,  H.Park,  E. Klavins,  D. Baker, and F. DiMaio
+  title: "Using experimental results of protein design to guide biomolecular energy-function development"
+  link: https://www.biorxiv.org/content/10.64898/2025.12.12.691241v1
+  year: 2025
+  journal: bioRxiv  
+
+- id: oops25
+  authors: M. Shang, E. Klavins, and G. Bernstein
+  title: "Oops: A Language for Formalizing Fallible Biological Protocols"
+  link: https://doi.org/10.1101/2025.06.17.660245
+  year: 2025
+  journal: bioRxiv
+
+- id: roots24
+  authors: O. Roth, S. Yechezkel, O. Serero, A. Eliyahu, I. Vints, P. Tzeela,  A. Carignano, D.P. Janacek, V. Peters,  A. Kessel, V. Dwivedi, M. Carmeli-Weissberg, F. Shaya, A. Faigenboim-Doron, J. Riov,  E. Klavins, C. Dawid, U.Z. Hammes, N. Ben-Tal, R. Napier, E. Sadot and R. Weinstain
+  title: Slow release of a synthetic auxin induces formation of adventitious roots in recalcitrant woody plants
+  link: https://www.nature.com/articles/s41587-023-02065-3
+  journal: Nature Biotechnology
+  year: 2024
+  note: "Also see the <a href='https://www.nature.com/articles/s41587-024-02132-3'>News and Views</a> article by Catherine Bellini."
+
+- id: duckweed23
+  authors: M. Scott, O. de Lange, X. Quaranto, R. Cardiff, and Eric Klavins
+  title: Open-source workflow design and management software to interrogate duckweed growth conditions and stress responses
+  link: https://plantmethods.biomedcentral.com/articles/10.1186/s13007-023-01065-3
+  journal: Plant Methods
+  year: 2023
+  number: 95
+  volume: 19
+
+- id: kenya21
+  authors: J.D. Vrana, N. Panpradist, N. Higa, D. Ko, P. Ruth, R. Kanthula, J.J. Lai, Y. Yang, S.R. Sakr, B. Chohan, M.H. Chung, L.M. Frenkel, B.R. Lutz, E. Klavins, I.A. Beck
+  title: Implementation of an interactive mobile application to pilot a rapid assay to detect HIV drug resistance mutations in Kenya
+  link: https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0000185
+  journal: PLOS Global Public Health
+  year: 2022
+
+- id: cellcell21
+  authors: A. Carignano, D.H. Chen, C. Mallory,  C. Wright,  G. Seelig,  and E. Klavins
+  title: Modular, robust and extendible multicellular circuit design in yeast
+  link: https://elifesciences.org/articles/74540
+  caption: "Alberto Carignano's bistable yeast consortium (ELife 2022)"
+  journal: ELife
+  year: 2022
+
+- id: stable21
+  authors: J.M Singer, S. Novotney, D. Strickland, H. K. Haddox, N. Leiby, G. J. Rocklin, C. M. Chow, A. Roy, A. K. Bera, F. C. Motta, L. Cao, E-M. Strauch, T. M. Chidyausiku, A. Ford, E. Ho, C. O. Mackenzie, H. Eramian, F. DiMaio, G. Grigoryan, M. Vaughn, L. J. Stewart, D. Baker and E. Klavins
+  title: Large-scale design and refinement of stable proteins using sequence-only models
+  link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265020
+  journal: PloS One
+  volume: 17
+  number: 3
+  year: 2022
+  
+- id: aquarium21
+  authors: J. Vrana, O. de Lange, Y. Yang, G. Newman, A. Saleem, Ayesha, A. Miller, C. Cordray, Cameron, S. Halabiya, M. Parks, E. Lopez, S. Goldberg, B. Keller, D. Strickland, Devin and E. Klavins
+  title: "Aquarium: open-source laboratory software for design, execution and data management"
+  journal: Oxford Synthetic Biology
+  year: 2021
+  link: https://academic.oup.com/synbio/advance-article/doi/10.1093/synbio/ysab006/6124325
+  
+- id: natbio20
+  authors: A. Hossain, E. Lopez, S. M. Halper, D. P. Cetnar, A. C. Reis, D. Strickland, E. Klavins, and H. M. Salis 
+  title: Automated design of thousands of nonrepetitive parts for engineering stable genetic systems
+  journal: Nature Biotechnology
+  year: 2020
+  link: https://www.nature.com/articles/s41587-020-0584-2
+  
+- id: prot20
+  authors: J. Maguire, H. Haddox, D. Strickland, S. Halabiya, B. Coventry, M. Cummins, D. Thieker, E. Klavins, F. DiMaio, D. Baker, and B. Kuhlman
+  title: Perturbing the energy landscape for improved packing during computational protein design
+  journal: Proteins
+  year: 2020
+  link: https://doi.org/10.1002/prot.26030
+
+- id: ebiomed19
+  authors: N. Panpradist, I. A. Beck,, J. Vrana, N. Higa, D. McIntyre, P. S. Ruth, I. So, E.C. Kline, R. Kanthula, Annie Wong-On-Wing, J. Lim, D. Ko, R. Milne, T. Rossou, U. D. Feuch, M. Chung, G. Jourdain, N. Ngo-Giang-Huong, L. Laomanit, J. Sori, J. Lai, E. Klavins, L. M. Frenkel and B. R. Lutz
+  title: "OLA-Simple: A software-guided HIV-1 drug resistance test for low-resource laboratories"
+  journal: EBioMedicine
+  year: 2019
+  link: https://www.ebiomedicine.com/article/S2352-3964(19)30743-1/pdf
+  caption: A snapshot of the Aquarium Software guiding clinicians through an HIV test
+
+- id: acs19
+  authors: Y. Yang, J. L. Nemhauser, and E. Klavins
+  title: Synthetic Bistability and Differentiation in Yeast
+  journal: ACS Synthetic Biology
+  year: 2019
+  link: https://pubs.acs.org/doi/10.1021/acssynbio.8b00524
+
+- id: elife18
+  authors: A. Khakhar, A. R Leydon, A. C. Lemmex, E. Klavins, and J. L. Nemhauser
+  title: Synthetic hormone-responsive transcription factors can monitor and re-program plant development
+  journal: eLIFE
+  year: 2018
+  link: https://elifesciences.org/articles/34702
+  note: "Ian Haydon wrote a <a href='https://synbiobeta.com/are-programmable-plants-the-future-of-farming/'>nice article</a> about this paper for synbiobeta."
+  
+- id: ppi17
+  authors: "D. A. Younger, S. Berger, D. Baker and E. Klavins"
+  title: "High-Throughput Characterization of Protein-Protein Interactions by Reprogramming Yeast Mating"
+  journal: Proceedings of the National Academy of Science
+  year: 2017
+  link: "http://www.pnas.org/content/early/2017/10/30/1705867114.full"
+  note: "Ian Haydon wrote a nice article about this paper for <a href='https://theconversation.com/synthetic-sex-in-yeast-promises-safer-medicines-for-people-84179?utm_source=twitter&utm_medium=twitterbutton'>The Conversation</a>."
+
+- id: biorxiv17
+  authors: C. Takahashi, L. Zaman, and E. Klavins
+  title: "Accelerating Evolutionary Hill Climbs in Parallel Turbidostats"
+  journal: "BioRxiv (preprint)"
+  year: 2017
+  link: https://www.biorxiv.org/content/early/2017/11/10/217273
+
+- id: cob17
+  authors: "O. de Lange, E. Klavins, and J. Nemhauser"
+  title: "Synthetic genetic circuits in crop plants"
+  journal: "Current Opinion in Biotechnology"
+  year: 2017
+  volume: 49
+  pages: 16-22
+  link: "https://www.ncbi.nlm.nih.gov/pubmed/28772191"
+
+- id: nor17
+  authors: "M. Gander, J. Vrana, W. Voje, J. Carothers, and E. Klavins"
+  title: "Digital logic circuits in yeast with CRISPR/dCas9 NOR gates"
+  journal: "Nature Communications"
+  year: 2017
+  caption: "Justin's impression of our dCas9 based NOR gate."
+  link: "https://www.nature.com/articles/ncomms15459"
+  note: "The UW News wrote a <a href='http://www.washington.edu/news/2017/05/25/uw-scientists-borrow-from-electronics-to-build-largest-circuits-to-date-in-living-eukaryotic-cells/'>nice article</a> about this paper."  
+
+- id: sdac16
+  authors: "R. Egbert, L. Brettner, D. Zong, and E. Klavins"
+  title: "Self-destructive altruism in a synthetic developmental program enables complex feedstock utilization"
+  journal: "BioRxiv (preprint)"
+  year: 2016
+  link: "http://biorxiv.org/content/early/2016/11/12/086900"  
+
+- id: acs15a
+  authors: "A. Khakhar, N. Bolten, J. Nemhauser, and E. Klavins"
+  title: "Cell-cell communication in yeast using auxin biosynthesis and auxin responsive CRISPR transcription factors"
+  journal: "ACS Synthetic Biology"
+  year: 2015
+  pages: "DOI: 10.1021/acssynbio.5b00064"
+  link: "http://pubs.acs.org/doi/full/10.1021/acssynbio.5b00064"
+  note: "The UW News wrote a <a href='http://www.washington.edu/news/2015/06/30/uw-team-programs-solitary-yeast-cells-to-say-hello-to-one-another/'>nice article</a> about this paper."
+
+- id: dev15
+  authors: J.M. Guseman, A. Hellmuth, A. Lanctot, T.P. Feldman, B.L. Moss, E. Klavins, L.I.A. Calderón, Villalobos, J.L. Nemhauser
+  title: Auxin-induced degradation dynamics set the pace for lateral root development
+  journal: Development
+  volume: 152
+  pages: 1-5
+  year: 2015
+  link: http://dev.biologists.org/content/early/2015/01/29/dev.117234.long
+
+- id: nbt14
+  authors: E. Klavins
+  title: Lightening the load in synthetic biology (News and Views)
+  year: 2014
+  journal: Nature Biotechnology
+  pages: 1198–1200
+  volume: 32
+  link: http://www.nature.com/nbt/journal/v32/n12/full/nbt.3089.html
+
+- id: acs14b
+  authors: C. Takahashi, A. Miller, F. Ekness, M. Dunham and E. Klavins
+  title: "A low cost, customizable turbidostat for use in synthetic circuit characterization"
+  year: 2014
+  journal: ACS Synthetic Biology
+  note: "See the <a href='https://depts.washington.edu/soslab/turbidostat/pmwiki/'> turbidostat wiki page</a> for more information."
+  link: http://pubs.acs.org/doi/abs/10.1021/sb500165g
+  caption-alt: "For our 2014 PNAS paper, we ported the auxin signal response pathway from plants to yeast."
+
+- id: pnas14
+  authors: E. Pierre-Jerome* S. S. Jang*, K. A. Havens, J. L. Nemhauser and E. Klavins
+  title: "Recapitulation of the forward nuclear auxin response pathway in yeast"
+  journal: Proceedings of the National Academy of Science
+  year: 2014
+  note: "Click <a href='data.html'>here</a> for data and associated code."
+  abstract: "Auxin influences nearly every aspect of plant biology through a simple signaling pathway; however, it remains unclear how much of the diversity in auxin effects are explained by variation in the core signaling components and which properties of these components may contribute to diversification in response dynamics. Here, we recapitulated the entire Arabidopsis thaliana forward nuclear auxin signal transduction pathway in Saccharomyces cerevisiae to test whether signaling module composition enables tuning of the dynamic response. Sensitivity analysis guided by a small mathematical model revealed the centrality of Aux/IAA co-repressors in controlling response dynamics, and highlighted the strong influence of natural variation in Aux/IAA degradation rates on circuit performance. When the basic auxin response circuit was expanded to include multiple Aux/IAAs, we found that dominance relationships between co-expressed Aux/IAAs were sufficient to generate distinct response modules similar to those seen during plant development. Our work provides a new method for dissecting auxin signaling and demonstrates the key role of Aux/IAAs in tuning auxin response dynamics."
+  data: pnas14.zip
+  link: http://www.pnas.org/content/early/2014/06/11/1324147111.abstract
+
+- id: acs14a
+  authors: K. Oishi and E. Klavins
+  title: "A Framework for Implementing Finite State Machines in Gene Regulatory Networks"
+  journal: ACS Synthetic Biology
+  year: 2014
+  link: http://pubs.acs.org/doi/abs/10.1021/sb4001799
+
+- id: pp13
+  authors: H. Yu, B. Moss, S. Jang, M. Prigge, E. Klavins, J. Nemhauser, and M. Estelle
+  title: Mutations in the TIR1 auxin receptor that increase affinity for Aux/IAA proteins result in auxin hypersensitivity
+  journal: Plant Physiology
+  pages: 113.215582
+  month: March
+  year: 2013
+  link: http://www.plantphysiol.org/content/early/2013/03/28/pp.113.215582.short?keytype=ref&ijkey=xIcySjgtxXxmzkU
+
+- id: po13
+  authors: D. Thorsley and E. Klavins
+  title: Estimation and Discrimination of Stochastic Biochemical Circuits From Time-Lapse Microscopy Data
+  journal: PLoS One
+  month: Nov
+  year: 2012
+  link: http://dx.plos.org/10.1371/journal.pone.0047151
+  caption: "In our 2012 PNAS paper, Rob Egbert introduced a genetic tuning method and
+            precisely balanced the number of cells in each state of a synthetic genetic switch."
+
+- id: cdc12
+  authors: J. Bishop and E. Klavins
+  title: Characterization of a Biomolecular Fuel Delivery Device under Load
+  journal: Proceedings of the 51st IEEE Conference on Decision and Control
+  month: Dec
+  year: 2012
+
+- id: pnas12
+  authors: R.G. Egbert and E. Klavins
+  title: Fine-tuning gene networks using simple sequence repeats
+  journal: Proceedings of the National Academy of Science
+  volume: 109
+  number: 42
+  pages: 16817-16822
+  month: Oct
+  year: 2012
+  link: http://www.pnas.org/content/early/2012/08/21/1205693109.abstract
+  note: Featured on the cover. See also the commentary by Prindle and Hasty.
+
+- id: acs12
+  authors: S.S. Jang, K.T. Oishi, R.G. Egbert, and E. Klavins
+  title: Specification and simulation of multicelled behaviors
+  journal: ACS Synthetic Biology
+  volume: 1
+  number: 8
+  pages: 365-374
+  year: 2012
+  link: http://pubs.acs.org/doi/abs/10.1021/sb300034m
+
+- id: pp12
+  authors: K. Havens*, E. Pierre-Jerome*, S. Jang*, J. Guseman*, N. Bolten, E. Klavins, and J. Nemhauser
+  title: A synthetic approach reveals extensive tunability of auxin perception
+  journal: Plant Physiology
+  month: July
+  year: 2012 
+  pages: 112.202184
+  link: http://www.plantphysiol.org/content/early/2012/07/27/pp.112.202184.short?keytype=ref&ijkey=StyKHCzD8kJwI1a
+
+- id: iet11
+  authors: K. Oishi and E. Klavins
+  title: A biomolecular implementation of linear I/O systems
+  journal: IET Systems Biology
+  month: July
+  year: 2011
+  volume: 5
+  number: 4
+  pages: 252–260
+  link: http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5979221&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F4100185%2F5979218%2F05979221.pdf%3Farnumber%3D5979221
+
+- id: icra11
+  authors: N. Napp and E. Klavins
+  title: Load balancing for multi-robot construction
+  journal: 2011 IEEE Conf. on Robotics and Automation
+  pages: pages 254-260
+  year: 2011
+  link: http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5979634
+  caption: "In our 2012 ACS synthetic biology paper, we designed cell programs that could someday control
+            cells to undergo synthetic morphogenesis."
+
+- id: ijrr11
+  authors: N. Napp and E. Klavins
+  title: A Compositional Framework for Programming Stochastically Interacting Robots
+  journal: The International Journal of Robotics Research
+  month: May 
+  year: 2011 
+  volume: 30
+  number: 6 
+  pages: 713-729
+  link: http://ijr.sagepub.com/content/30/6/713.abstract?rss=1
+
+- authors: E. Klavins
+  title: Proportional-Integral Control of Stochastic Gene Regulatory Networks
+  journal: Conference on Decision and Control (CDC)
+  month: Dec
+  year: 2010
+  pages: 2547-2553
+  link: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5717525&tag=1
+
+- authors: N. Napp, S. Burden, and E. Klavins
+  title: Setpoint Regulation for Stochastically Interacting Robots
+  journal: Autonomous Robotics
+  volume: 30
+  number: 1
+  month: Sep
+  year: 2010
+  pages: 57-71
+  link: http://www.springerlink.com/content/xg323226212jvt51/
+
+- authors: D. Thorsley and E. Klavins
+  title: Approximating Stochastic Biochemical Processes With Wasserstein Pseudometrics
+  journal: IET Systems Biology
+  month: May
+  year: 2010
+  volume: 4
+  number: 3
+  pages: 193-211
+  link: http://dx.doi.org/10.1049/iet-syb.2009.0039
+
+- authors: N. Napp and E. Klavins
+  title: "Robust by Composition: Programs for Multi Robot Systems"
+  journal: IEEE Conf. on Robotics and Automation
+  pages: 2459-2466
+  year: 2010
+
+- authors: D. Georgiev, M. Fazel, and E. Klavins
+  title: Model Discrimination of Chemical Reaction Networks by Linearization
+  journal: American Control Conference (ACC)
+  pages: 5916 - 5922
+  year: 2010
+  link: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5531228&tag=1
+
+- authors: N. Napp, S. Burden and E. Klavins
+  title: Setpoint Regulation for Stochastically Interacting Robots
+  journal: "Robotics: Science and Systems V"
+  year: 2009
+  link: http://soslab.ee.washington.edu/nnapp/wiki/NN_rss09.pdf
+  caption: "In our 2010 AR paper, Nils Napp and Sam Burden build robots that react like molecules."
+
+- authors: F. W. Shaw and E. Klavins. 
+  title: Distributed Estimation and State Assignment For Stochastically Interacting Robots
+  journal: Workshop on Network Estimation and Control
+  year: 2009
+  link: http://soslab.ee.washington.edu/mw/images/f/f0/Shaw_klavins_necsys09.pdf
+
+- authors: N. Napp, D. Thorsley and E. Klavins
+  title: Hidden Markov Models for Non-Well-Mixed Reaction Networks
+  journal: Proceedings of the American Control Conference
+  year: 2009
+  link: http://soslab.ee.washington.edu/nnapp/wiki/NN_acc09.pdf
+
+- authors: D. Thorsley and E. Klavins
+  title: A Theory of Approximation for Stochastic Biochemical Networks
+  journal: Control Theory and Systems Biology, Eds. B. Ingalls and P. Iglesias
+  year: 2009
+  link: http://faculty.washington.edu/thorsley/papers/ThKl-for-InIg.pdf
+
+- authors: D. Georgiev and E. Klavins
+  title: Model Discrimination of Polynomial Systems via Stochastic Inputs
+  year: 2008
+  journal: Conference on Decision and Control
+  link: http://faculty.washington.edu/klavins/papers/gk_CDC_08_final.pdf
+
+- authors: F. Shaw and E. Klavins
+  title: Distributed Estimation and Control For Stochastically Interacting Robots
+  year: 2008
+  journal: Conference on Decision and Control
+  link: http://localhost:3123/soslab/mw/index.php?title=Image:Shaw_klavins_CDC_08_final.pdf
+
+- authors: J. M. McNew and E. Klavins
+  title: Non-deterministic Reconfiguration of Tree Formations
+  journal: American Control Conference
+  month: June
+  year: 2008
+  pages: 690-697
+  link: http://faculty.washington.edu/klavins/papers/mcnew-klavins-acc08.pdf
+
+- authors: D. Thorsley and E. Klavins
+  title: Model Reduction of Stochastic Processes Using Wasserstein Pseudometrics
+  journal: American Control Conference
+  month: June
+  year: 2008
+  pages: 1374-1381
+  link: http://faculty.washington.edu/thorsley/papers/acc2008-ThKl.pdf
+
+- authors: J. Bishop and E. Klavins
+  title: An Improved Autonomous DNA Nanomotor
+  journal: Nanoletters
+  month: Sep
+  year: 2007
+  volume: 7
+  number:  9
+  pages: 2574-7
+  link: http://pubs.acs.org/doi/abs/10.1021/nl070752s
+
+- authors: E. Klavins
+  title: Programmable Self-Assembly
+  journal: Control Systems Magazine
+  month: Aug
+  year: 2007
+  volume: 24
+  number:  4
+  pages: 43-56
+  link: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4272328&isnumber=4272237
+
+- authors: W. B. Dunbar, N. A. Wilson, J. Schaeffer, E. Klavins, J. Bishop and B. Tanner
+  title: "Dynamics and control of biomolecules: Research venues and opportunites"
+  journal: 46th Conference on Decision and Control
+  month: Dec
+  year: 2007
+  pages: 3297-3307
+  link: http://ieeexplore.ieee.org/search/srchabstract.jsp?arnumber=4435051&isnumber=4434000&punumber=4433999&k2dockey=4435051@ieeecnfs&query=((klavins)%3Cin%3Eau+)&pos=9&access=no
+
+- authors: M. Yim, W.M. Shen, B. Salemi, D. Rus, M. Moll, H. Lipson, E. Klavins and G.S. Chirickjian
+  title: Modular Self-Reconfigurable Robot Systems
+  journal: IEEE Robotics and Automation Magazine
+  month: Mar
+  year: 2007
+  volume: 14
+  number:  1
+  pages: 43-42
+  link: https://ieeexplore.ieee.org/document/4141032
+  caption: "In our 2007 Nanoletters paper, Josh Bishop developed a new molecular nanomotor that is robust to its own waste products!"
+
+- authors: C. Belta, A. Bicchi, M. Egerstedt, E. Frazzoli, E. Klavins and G.J. Pappas
+  title: Symbolic Planning and Control of Robot Motion
+  journal: IEEE Robotics and Automation Magazine
+  month: Mar
+  year: 2007
+  volume: 14
+  number:  1
+  pages: 61-70
+  link: http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100
+
+- authors: J. M. McNew, E. Klavins and M. Egerstedt
+  title: Solving Coverage Problems with Embedded Graph Grammars
+  journal: "Hybrid Systems: Computation and Control"
+  year: 2007
+  link: http://faculty.washington.edu/klavins/papers/hscc2007.pdf
+
+- authors: S. Waydo, J. Hauser and R. Bailey, E. Klavins and R. Murray
+  title: "UAV as a Reliable Wingman: A Flight Demonstration"
+  journal: IEEE Transactions on Control Systems Technology
+  month: Jul
+  year: 2007
+  volume: 15
+  number:  4
+  pages: 680--688
+
+- authors: E. Klavins, S. Burden and N. Napp
+  title: Optimal Rules for Programmed Stochastic Self-Assembly
+  journal: "Robotics: Science and Systems II"
+  year: 2006
+  pages: 9-16
+  link: http://faculty.washington.edu/klavins/papers/klavins-burden-napp-rss06.pdf
+
+- authors: J. Bishop and E. Klavins, Collective Sensing with Self-Organizing Robots
+  title: 45th IEEE Conference on Decision and Control
+  year: 2006
+  pages: 4175-81
+  link: http://faculty.washington.edu/klavins/papers/bishop-klavins-cdc06.pdf
+
+- authors: J. M. McNew and E. Klavins
+  title: Locally Interacting Hybrid Systems with Embedded Graph Grammars
+  journal: 45th IEEE Conference on Decision and Control
+  year: 2006
+  pages: 6080-87
+  link: http://faculty.washington.edu/klavins/papers/mcnew-klavins-cdc06.pdf
+
+- authors: E. Klavins
+  title: Self-Assembly From the Point of View of Its Pieces
+  journal: American Control Conference
+  month: Jun
+  year: 2006
+  link: http://faculty.washington.edu/klavins/papers/klavins-acc06.pdf
+
+
+- authors: J. M. McNew and E. Klavins
+  title: Model-Checking and Control of Self-Assembly
+  journal: American Control Conference
+  month: Jun
+  year: 2006
+  link: http://faculty.washington.edu/klavins/papers/mcnew-klavins-acc06.pdf
+
+- authors: S. Burden, N. Napp, E. Klavins
+  title: The Statistical Dynamics of Programmed Robotic Self-Assembly
+  journal: International Conference on Robotics and Automation
+  month: May
+  year: 2006
+  pages: 1469--76
+  link: http://faculty.washington.edu/klavins/papers/icra06-sa.pdf
+  caption: "In our 2006 RSS paper, we optimzed the rate of robotic self assembly with traingular robotic pieces."
+
+- authors: E. Klavins, R. Ghrist and D. Lipsky
+  title: A Grammatical Approach to Self-Organizing Robotic Systems
+  journal: IEEE Transactions on Automatic Control
+  month: June
+  year: 2006
+  volume: 51
+  number:  5
+  pages:  949-962
+  link: http://faculty.washington.edu/klavins/papers/tac-sa.pdf
+
+- authors: D. Del Vecchio, R. Murray and E. Klavins
+  title: Discrete State Estimators for Systems on a Lattice
+  journal: Automatica
+  year: 2006
+  volume: 42
+  number:  2
+  pages: 271-285
+
+
+- authors: J. M. McNew and E. Klavins
+  title: "A Grammatical Approach to Cooperative Control: The wanderers and Scouts Example"
+  journal: Cooperative Control
+  year: 2005
+  link: http://faculty.washington.edu/klavins/papers/mcnew-klavins-cco05.pdf
+
+- authors: J. Bishop, S. Burden, E. Klavins, R. Kreisberg, W. Malone, N. Napp and T. Nguyen
+  title: Self-Organizing Programmable Parts
+  journal: International Conference on Intelligent Robots and Systems
+  year: 2005
+  link: http://faculty.washington.edu/klavins/papers/iros05.pdf
+
+- authors: E. Klavins
+  title: Universal Self-Replication Using Graph Grammars
+  journal: International Conference on MEMs, NANO and Smart Systems
+  year: 2004
+  link: http://faculty.washington.edu/klavins/papers/klavins-icmens04.pdf
+
+- authors: E. Klavins
+  title: Directed Self-Assembly Using Graph Grammars
+  journal: "Foundations of Nanoscience: Self Assembled Architectures and Devices"
+  link: http://faculty.washington.edu/klavins/papers/fnano.ps
+  year: 2004
+
+- authors: E. Klavins, R. Ghrist, and D. Lipsky
+  title: Graph Grammars for Self-Assembling Robotic Systems
+  journal: Proceedings of the International Conference on Robotics and Automation
+  month: May
+  year: 2004
+  pages: 5293-5300
+  link: http://faculty.washington.edu/klavins/papers/icra04-sa.pdf
+  caption: 'In my papers with Rob Ghrist (ICRA 2004, TAC 2006), we explored the power and limitations of graph grammers for self-assembly and robotic self-organization.'
+
+- authors: E. Klavins
+  title: A Language for Modeling and Programming Cooperative Control Systems
+  journal: Proceedings of the International Conference on Robotics and Automation
+  month: May
+  year: 2004
+  pages: 3403-3410
+  link: http://faculty.washington.edu/klavins/papers/icra04-ccl.pdf
+
+- authors: E. Klavins and R. Murray
+  title: Distributed Algorithms for Cooperative Control
+  journal: IEEE Pervasive Computing
+  year: 2004
+  volume: 3
+  number:  1
+  pages:  56-65
+  link: http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=1269132
+
+- authors: E. Klavins
+  title: A Formal Model of a Multi-Robot Control and Communication Task
+  journal: 42nd IEEE Conference on Decision and Control
+  month: Dec
+  year: 2003
+  link: http://faculty.washington.edu/klavins/papers/cdc2003-klavins-ccl.pdf
+
+- authors: D. Del Vecchio and E. Klavins
+  title: Observation of Hybrid Guarded Command Programs
+  journal: 42nd IEEE Conference on Decision and Control
+  month: Dec
+  year: 2003
+
+- authors: S. Waydo. B. Dunbar and E. Klavins
+  title: "Toward Feedback Stabilization of Faulty Software Systems: A Case Study"
+  journal: 42nd IEEE Conference on Decision and Control
+  month: Dec
+  year: 2003
+  link: http://faculty.washington.edu/klavins/papers/waydo-dunbar-klavins-cdc03.pdf
+
+- authors: E. Klavins
+  title: Communication Complexity of Multi-Robot Systems
+  journal: Algorithmic Foundations of Robotics V. Eds. J.-D. Boissonnat, J. Burdick, K. Goldberg, S. Hutchinson
+  year: 2003
+  volume: 7
+  pages:  275-292
+  link: http://faculty.washington.edu/klavins/papers/mvcc.pdf
+
+
+- authors: E. Klavins
+  title: Toward the Control of Self-Assembling Systems
+  journal: Control Problems in Robotics. Eds. A. Bicchi, H. Christensen and D. Prattichizzo
+  year: 2003
+  volume: 4
+  pages:  153-168
+  link: http://faculty.washington.edu/klavins/papers/klavins-cpra02.pdf
+
+- authors: E. Klavins
+  title: "Automatically Synthesized Controllers for Distributed Assembly: Partial Correctness"
+  journal: "Cooperative Control: Models, Applications and Algorithms. Eds. S. Butenko, R. Murphey and P. M. Pardalos"
+  year: 2002
+  pages: 111-127
+  link: http://faculty.washington.edu/klavins/papers/klavins-cco2001.pdf
+
+
+- authors: E. Klavins and U. Saranli
+  title: Object Oriented State Machines
+  journal: Embedded Systems Magazine
+  month: May
+  year: 2002
+  pages:  30-42.
+
+- authors: E. Klavins
+  title: Automatic Synthesis of Controllers for Distributed Assembly and Formation Forming
+  journal: Proceedings of the IEEE Conference on Robotics and Automation
+  month: May
+  year: 2002
+  link: http://faculty.washington.edu/klavins/papers/icra2002.pdf
+
+- authors: E. Klavins and D. E. Koditschek
+  title: Phase Regulation of Decentralized Cyclic Robotic Systems
+  journal: International Journal of Robotics Research
+  year: 2002
+  volume: 21
+  number:  3
+  pages:  257-276
+  link: http://ijr.sagepub.com/cgi/content/abstract/21/3/257
+  caption: "In my 2002 IJRR paper, I showed that potential functions can be used to regulate phase for
+           multi-legged robots."
+
+- authors: T. Chung, L. Cremean, B. Dunbar, Z. Jin, E. Klavins, D. Moore, A. Tiwari, D. van Gogh and S. Waydo
+  title: "A Platform for Cooperative and Coordinated Control of Multiple Vehicles: The Caltech Multi-Vehicle Wireless Testbed"
+  journal: Proceedings of the Conference on Cooperative Control and Optimization.
+  year: 2002
+  link: http://faculty.washington.edu/klavins/papers/ccdjkmtvw02-cco.pdf
+
+- authors: L. Cremean, B. Dunbar, D. van Gogh, J. Hickey, E. Klavins, J. Meltzer and R. M. Murray
+  title: The Caltech Multi-Vehicle Wireless Testbed
+  journal: 41st IEEE Conference on Decision and Control
+  month: Dec
+  year: 2002
+  link: http://faculty.washington.edu/klavins/papers/mvcc.pdf
+
+- authors: E. Klavins, H. Komsuoglu, R. J. Full and D. E. Koditschek
+  title: The Role of Reflexes Versus Central Pattern Generators in Dynamical Legged Locomotion
+  journal: Neurotechnology for Biomimetic Robots. Eds. J. Ayers, J. Davis and A. Rudolph. MIT Press
+  year: 2001
+
+- authors: E. Klavins and D. E. Koditschek
+  title: Stability of Hybrid Coupled Oscillators
+  journal: International Conference on Robotics and Automation
+  year: 2001
+  link: http://faculty.washington.edu/klavins/papers/icra2001.pdf
+
+- authors: E. Klavins
+  title: Decentralized Phase Regulation of Cyclic Robotic Systems
+  journal: Ph.D. Thesis, University of Michigan
+  month: June
+  year: 2001
+  link: http://faculty.washington.edu/klavins/papers/klavins-thesis-final.pdf
+
+- authors: E. Klavins
+  title: Automatic Compilation of Concurrent Hybrid Factories from Product Assembly Specifications
+  journal: "Hybrid Systems: Computation and Control. LNCS 1790. Springer-Verlag"
+  year: 2000
+  pages:  174-187
+  link: http://faculty.washington.edu/klavins/papers/hs00.pdf
+
+- authors: E. Klavins and D. E. Koditschek
+  title: A Formalism for the Composition of Concurrent Robot Behaviors
+  journal: In Proceedings of the IEEE Conference on Robotics and Automation
+  year: 2000
+  link: http://faculty.washington.edu/klavins/papers/icra2000.pdf
+
+- authors: E. Klavins, D. E. Koditschek and R. Ghrist
+  title: Toward the Regulation and Composition of Cyclic Behaviors
+  journal: "Algorithmic and Computational Robotics: New Directions (2000 WAFR). Eds. B. R. Donald, K. M. Lynch and D. Rus"
+  pages:  205-220.
+  year: 2000
+  link: http://faculty.washington.edu/klavins/papers/wafr2000.ps
+  caption: "Eric's first paper: A phase transition between satisfiable and unsatisfiable 3-valued
+            logic propositions. Exciting!"
+
+- authors: E. Klavins, W. C. Rounds, and Q.-Q. Zhang
+  title: Experimenting with Power Default Reasoning
+  journal: Proceedings of AAAI-98 
+  year: 1998
+  link: http://faculty.washington.edu/klavins/papers/aaai98.ps
