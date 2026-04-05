@@ -519,8 +519,9 @@ ul.pubs .num {
 }
 
 .tab-icon {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   line-height: 1;
+  font-weight: 700;
 }
 
 /* --- Footer --- */
