@@ -153,7 +153,7 @@
   volume: 152
   pages: 1-5
   year: 2015
-  link: http://dev.biologists.org/content/early/2015/01/29/dev.117234.long
+  link: https://doi.org/10.1242/dev.117234
 
 - id: nbt14
   authors: E. Klavins
@@ -162,7 +162,7 @@
   journal: Nature Biotechnology
   pages: 1198–1200
   volume: 32
-  link: http://www.nature.com/nbt/journal/v32/n12/full/nbt.3089.html
+  link: https://www.nature.com/articles/nbt.3089
 
 - id: acs14b
   authors: C. Takahashi, A. Miller, F. Ekness, M. Dunham and E. Klavins
@@ -295,7 +295,7 @@
   month: Sep
   year: 2010
   pages: 57-71
-  link: http://www.springerlink.com/content/xg323226212jvt51/
+  link: https://doi.org/10.1007/s10514-010-9203-2
 
 - authors: D. Thorsley and E. Klavins
   title: Approximating Stochastic Biochemical Processes With Wasserstein Pseudometrics
@@ -324,26 +324,26 @@
   title: Setpoint Regulation for Stochastically Interacting Robots
   journal: "Robotics: Science and Systems V"
   year: 2009
-  link: http://soslab.ee.washington.edu/nnapp/wiki/NN_rss09.pdf
+  link: https://doi.org/10.15607/RSS.2009.V.017
   caption: "In our 2010 AR paper, Nils Napp and Sam Burden build robots that react like molecules."
 
 - authors: F. W. Shaw and E. Klavins. 
   title: Distributed Estimation and State Assignment For Stochastically Interacting Robots
   journal: Workshop on Network Estimation and Control
   year: 2009
-  link: http://soslab.ee.washington.edu/mw/images/f/f0/Shaw_klavins_necsys09.pdf
+
 
 - authors: N. Napp, D. Thorsley and E. Klavins
   title: Hidden Markov Models for Non-Well-Mixed Reaction Networks
   journal: Proceedings of the American Control Conference
   year: 2009
-  link: http://soslab.ee.washington.edu/nnapp/wiki/NN_acc09.pdf
+  link: https://doi.org/10.1109/ACC.2009.5160103
 
 - authors: D. Thorsley and E. Klavins
   title: A Theory of Approximation for Stochastic Biochemical Networks
   journal: Control Theory and Systems Biology, Eds. B. Ingalls and P. Iglesias
   year: 2009
-  link: http://faculty.washington.edu/thorsley/papers/ThKl-for-InIg.pdf
+  link: https://doi.org/10.7551/mitpress/7600.003.0015
 
 - authors: D. Georgiev and E. Klavins
   title: Model Discrimination of Polynomial Systems via Stochastic Inputs
@@ -355,7 +355,7 @@
   title: Distributed Estimation and Control For Stochastically Interacting Robots
   year: 2008
   journal: Conference on Decision and Control
-  link: http://localhost:3123/soslab/mw/index.php?title=Image:Shaw_klavins_CDC_08_final.pdf
+  link: https://doi.org/10.1109/CDC.2008.4739475
 
 - authors: J. M. McNew and E. Klavins
   title: Non-deterministic Reconfiguration of Tree Formations
@@ -371,7 +371,7 @@
   month: June
   year: 2008
   pages: 1374-1381
-  link: http://faculty.washington.edu/thorsley/papers/acc2008-ThKl.pdf
+  link: https://doi.org/10.1109/ACC.2008.4586684
 
 - authors: J. Bishop and E. Klavins
   title: An Improved Autonomous DNA Nanomotor
@@ -662,7 +662,7 @@
   title: A Formalism for the Composition of Concurrent Robot Behaviors
   journal: In Proceedings of the IEEE Conference on Robotics and Automation
   year: 2000
-  link: http://faculty.washington.edu/klavins/papers/icra2000.pdf
+  link: https://doi.org/10.1109/ROBOT.2000.845244
 
 - authors: E. Klavins, D. E. Koditschek and R. Ghrist
   title: Toward the Regulation and Composition of Cyclic Behaviors
