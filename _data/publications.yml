@@ -1,9 +1,9 @@
 - id: rosetta_energy
   authors: H. Haddox,  G. Rocklin,  F. C Motta,  D. Strickland, S. Halabiya, C. Cordray,  H.Park,  E. Klavins,  D. Baker, and F. DiMaio
   title: "Using experimental results of protein design to guide biomolecular energy-function development"
-  link: https://www.biorxiv.org/content/10.64898/2025.12.12.691241v1
-  year: 2025
-  journal: bioRxiv  
+  link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014215
+  year: 2026
+  journal: Plos Computational Biology  
 
 - id: oops25
   authors: M. Shang, E. Klavins, and G. Bernstein
